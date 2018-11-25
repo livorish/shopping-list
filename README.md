@@ -1,2 +1,2 @@
-# shopping-list
+# shoppinglist-app
 just a shopping list
